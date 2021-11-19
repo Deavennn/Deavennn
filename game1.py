@@ -3,7 +3,7 @@ import random
 # interface
 print("="*100)
 print("Rasakan sensasi gamenya")
-print("Created by : swipper")
+print("Created by : Deavennn")
 print("="*100)
 print("Game started!!!!")
 
